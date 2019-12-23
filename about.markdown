@@ -4,9 +4,7 @@ title: O Nama
 permalink: /about/
 ---
 
-Bez Reklama !
-
-Mi ne koristimo vase kompjutere da kopamo kriptovalute !
+Sve O Filmovima Na Jednom Mestu !
 
 
 
