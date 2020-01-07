@@ -28,7 +28,7 @@ twitter_username: Filmobleja
 github_username:  Filmobleja
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
